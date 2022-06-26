@@ -1,0 +1,164 @@
+"id","description"
+1,Each follower that ends its move within 6 squares of this character can move 2 extra squares at the end of its turn.
+2,Non-Unique within 6 squares of this character gain +2 Attack.
+3,"Whenever an allied character without a force rating get a natural 1 on any roll, that character is defeated and all other allies without a force rating get +2 Attack. These bonuses stack."
+4,Characters in your squad can spend Emperor Palpatine's force points. (A character still can't spend force points more than once per turn or combine their own force points with Emperor Palpatine's.)
+5,Non-Unique followers within 6 squares gain Accurate Shot.
+6,"If this character has line of site on an enemy at the start of a phase, you can activate up to 3 characters in that phase. This can include Droid and Savage characters."
+7,"At the end of this characters turn, 1 non-Unique follower within 6 squares may make an immediate attack."
+8,Trooper followers within 6 squares gain +3 Attack if they do not move this turn.
+9,Bounty Hunter followers get +2 Attack.
+10,Allied Bespin Guards get +2 Attack.
+11,Allied trooper followers gain +2 Attack.
+12,Allied Naboo Soldiers gain Bodyguard.
+13,Trooper followers within 6 square score critcal hits on attack rolls of natural 19 or 20.
+14,Followers can move 2 extra squares on their turns as part of their moves.
+15,"At the end of this character's turn, you may activate one adjacent follower who has not activated this round. This does not count as one of your 2 activations this phase."
+16,Non-Unique followers within 6 squares get +4 Attack against wounded enemies.
+17,Adjacent followers gain Bodyguard.
+18,Followers within 6 squares may reroll each failed save once.
+19,Followers within 6 squares score critical hits on attacks rolls of natural 19 or 20.
+20,Each non-Unique follower within 6 squares who scores a critcal hit may make an immediate extra attack.
+21,Non-Unique followers who end their move within 6 squares of this character gain Momentum.
+22,Droids are subject to this effect: Non-Unique droid followers within 6 squares gain Double Attack.
+23,"Whenever one or more allied Alderaan Troopers combine fire with another Alderaan Trooper, the attacker gets +10 Damage."
+24,Followers within 6 squares who target a Fringe character get +4 Attack and +10 Damage.
+25,Followers within 6 squares can make 1 immediate attack at +10 Damage when they are defeated.
+26,Allied characters names Anakin within 6 squares get +4 Attack.
+27,Followers within 6 squares get +4 Attack against adjacent enemies.
+28,Allied Wookies within 6 squards gain Bodyguard.
+29,Non-Unique Droid followers within 6 squares get+4 Attack and gain Double Attack.
+30,You activate only 1 character each phase (this includes Savage and Droid characters).
+31,Each follower within 6 squares who scores a critical hit gets +20 Damage on that attack (add the bonus damage after multiplying).
+32,Utapaun followers within 6 squares gain Double Attack.
+33,Your squad may contain characters with Order 66.
+34,Allies get -2 Attack and gain Speed 4.
+35,Droids are subject to this effect: Non-Unique Droid followers within 6 squares of this character gain Careful Shot.
+36,Non-Unique followers within 6 squares of this character gain Mobile Attack.
+37,Allies with Stealth gain Accurrate Shot. Allies with Grenades 10 gain Grenades 20.
+38,Followers within 6 squares who combine fire grant +6 instead of +4.
+39,"Non-Unique followers within 6 squares get +3 Attack and +3 Defense. At the end of this character's turn, 2 allies within 6 squares of this character may switch position."
+40,"At the end of his turn, this character can choose 1 adjacent non-Unique follower. That follower gets +10 Damage until the end of this character's turn, or until this character is defeated."
+41,Followers within 6 squares gain +4 Attack against an enemy who has activated this round.
+42,Followers within 6 squares gain Advantageous Attack.
+43,"Whenever a follower within 6 squares defeats an enemy, it may immediately move 2 squares. This move does not provoke attacks of opportunity and does not prevent the use of extra attacks."
+44,Pilot followers gain Evade.
+45,Allied characters with a Force rating gain +1 Force Points.
+46,Trooper followers gain Careful Shot.
+47,"Characters in your squad with Stealth (including Nom Anor) that have cover, cannot be targeted by a non-adjacent enemy. Characters in your squad with Stealth gain Self Destruct 20."
+48,Allied Yuuzhan Vong who end their move within 6 squares gain Momentum.
+49,Allied Yuuzhan Vong Warriors within 6 squares gain Double Attack.
+50,Allies named Old Republic Soldier within 6 squares gain Double Attack.
+51,Followers who combine fire grant +6 Attack instead of +4.
+52,Savage character are subject to this effect: Followers with Savage gain Jedi Hunter and Momentum.
+53,Your squad may include Mandalorian characters. Mandalorian allies within 6 squares gain Bodyguard.
+54,Troopers in your squad with Order 66 get +10 Damage against adjacent enemies. Characters in your squad named Elite Clone Trooper gain Stealth. Characters in your squad with Order 66 and Stealth (including Clone Commander Bacara) who have cover cannot be targeted by non-adjacent enemies.
+55,Characters in your squad with Order 66 gain Wall Climber. Characters in your squad with Order 66 and Sniper gain Accurate Shot.
+56,Your squad may include non-Unique Wookieses of any faction. Each Soldier or Trooper follower can move 2 extra squares at the end of its turn. Characters in your squad with Order 66 and Mobile Attack (including Clone Commander Gree) do not provoke attacks of opportunity.
+57,Followers within 6 squares gain Extra Attack.
+58,Non-Unique Republic followers gain Mobile Attack.
+59,"At the end of this character's turn, 1 follower within 6 squares whose name contains Republic Commando can make an immediate attack."
+60,"Characters in your squad with a Force rating can spend Force points from Darth Sidious, Dark Lord of the Sith (A character still can't spend Force points more than once per turn and can't combine its own Force points with those from Darth Sidious)."
+61,Characters in your squad with a Force rating can spend Yoda of Dagobah's Force points. (A character still can't spend Force points more than once per turn and can't combine its own Force points with Yoda's).
+62,"Once per turn, each follower within 6 squares may reroll 1 attack at +4 Attack and +10 Damage. If the result of the rerolled attack is a miss, the attacking character is defeated."
+63,"Whenever a non-Unique ally would be defeated, with a save of 16, it instead immediately returns to play with full Hit Points."
+64,Rebel Trooper followers within 6 squares gain Twin Attack.
+65,Followers with Stealth within 6 squares gain Evade.
+66,Non-Unique followers with Mercenary within 6 squares gain Double Attack.
+67,Non-Unique followers within 6 squares gain Deadeye.
+68,Each non-Unique follower within 6 squares gains Mighty Swing.
+69,Mandalorian allies gain Momentum.
+70,Mandalorian allies gain Mobile Attack.
+71,Followers gain Charging Fire.
+72,Followers in your squad with Damage 10 and Melee Attack get +4 Attack and +10 Damage.
+73,"At the end of this character's turn, 1 Rebel follower within 6 squares can make 1 immediate attack at +4 Attack and +10 Damage."
+74,"Commandos in your squad with Stealth (including this character) and who have cover, cannot be targeted by non-adjacent enemies. Commando followers with Grenades 10 instead gain Grenades 20."
+75,Followers within 6 squares who combine fire grant +6 Attack instead of +4. Rebel allies gain Spotter +20.
+76,Trooper followers within 6 squares gain Opportunist.
+77,Trooper followers get +6 Defense.
+78,Allied commanders within 6 squares gain Extra Attack.
+79,"Enemies with Accurate Shot in cover can be targeted by Fringe followers within 6 squares of this character, even if those enemies are not the nearest."
+80,All non-Unique Fringe followers within 6 squares gain Cunning Attack.
+81,All Yuuzhan Vong allies within 6 squares gain Cunning Attack.
+82,Yuuzhan Vong allies within 6 squares gain Poison +10 and Spit Poison 20.
+83,"Droids are subject to these effects: Non-Unique followers within 6 squares get +4 Attack. Once per round, after initiative is determined, 1 ally can immediately move up to its Speed before any other character activates."
+84,Rebel Trooper followers within 6 squares gain Deadeye.
+85,"At the end of this character's turn, 2 allies within 6 squares of this character who are the same size may switch position."
+86,Fringe followers within 6 squares get +3 Attack and +3 Defense.
+87,Trooper followers within 6 squares gain Advantageous Cover.
+88,Characters named Imperial Navy Trooper within 6 squares gain Double Attack.
+89,Each follower can move up to half its Speed and still use Force Powers and Special Abilities that grant extra attacks.
+90,Allies whose name contains Ugnaught gain Self-Destruct 10.
+91,Allies gain Mettle.
+92,Each follower within 6 squares gains Flurry Attack.
+93,"Whenever one or more allies with Order 66 combine fire with another character with Order 66, the attacker gets +10 Damage. Allies with Order 66 and Grenades 10 instead gain Grenades 30."
+94,"At the end of this character's turn, 1 follower within 6 squares can make an immediate attack."
+95,You can choose to activate only 1 character in each phase.
+96,Pilot followers gain Gregarious.
+97,"If this character has line of sight on an enemy at the start of a phase, you can choose to activate only 1 character in that phase. (This includes Droid and Savage characters.)"
+98,Characters in your squad (including this character) get +10 Damage against enemies with Stealth. Characters in your squad with Stealth (including this character) and who have cover cannot be targeted by non-adjacent enemies.
+99,Non-Unique allies within 6 squares gain It's a Trap! and Deceptive.
+100,Mandalorian followers within 6 squares gain Accurate Shot.
+101,Old Republic followers within 6 squares get +3 Defense and gain Squad Assault.
+102,Followers get +4 Attack.
+103,Sith trooper allies gain Double Attack.
+104,"At the end of this character's turn, 2 Medium allies within 6 squares of this character can switch position."
+105,Each follower can use 2 abilities that can replace attacks instead of 1 on its turn.
+106,Adjacent followers with a Force rating gain Bodyguard.
+107,Mandalorian allies gain Charging Fire.
+108,Mandalorian follower within 6 squares gain Twin Attack.
+109,Mandalorian followers within 6 squares get +4 Attack.
+110,Allied characters within 6 squares gain Force Renewal 1.
+111,Allied character with Order 66 within 6 squares gain Greater Mobile Attack.
+112,"Allied characters are treated as having the same name as each other, only for purposes of special abilities whose name contains Squad. Followers within 6 squares gain Squad Assault."
+113,Followers with Order 66 within 6 squares get +4 Defense.
+114,Allied characters with Order 66 gain Double Attack.
+115,Allied character with Pilot gain Grenades 20 and Penetration 20.
+116,"At the end of this character's turn, 1 Unique follower within 6 squares make an immediate attack with a +4 Attack bonus."
+117,Droids are subject to this effect: Droid followers get +4 Attack and +4 Defense and gain Twin Attack.
+118,Commandos in your squad gain Cunning Attack +20.
+119,Allies gain Evade and Mobile Attack.
+120,Allies in your squad within 6 squares gain Extra Attack.
+121,Followers within 6 squares who combine fire grant an additional +4 Attack.
+122,Followers whose names contain Sandtrooper gain Deadeye and Squad Assault.
+123,Followers within 6 squares whose names contain Snowtrooper get +4 Attack and gain Squad Assault.
+124,"Allies gain Opportunist. At the end of this character's turn, 2 allies within 6 squares of this character may switch position."
+125,Followers with Mercenary within 6 squares gain Deadeye and Furious Assault.
+126,Followers with Evade within 6 squares gain Greater Mobile Attack.
+127,Each Black Sun ally within 6 squares gets +4 Attack and +10 Damage.
+128,Allies within 6 squares gain Extra Attack.
+129,"At the end of this character's turn, 2 allies within 6 squares of this character can switch positions."
+130,Followers within 6 squares get +3 Attacl and +3 Defense.
+131,Allied characters with a Force rating and with a printed Attack ration of 10 or less get +4 Attack.
+132,Each ally with a Force rating gains Force Renewal 1.
+133,Allies within 6 squares gain Lightsaber Duelist.
+134,Each ally within 6 squares can reroll each failed save once.
+135,Followers within 6 squares score critical hits on attack rolls of natural 19 or 20 and deal triple damage instead of double on a critical hit.
+136,"If this character can see an enemy at the start of a phase, you can increase or decrease the number of characters you activate in that phase by 1 (minimum 1). This can include Droid and Savage characters."
+137,Droids are subject to this effect: Droid followers within 6 squares gain Double Attack.
+138,Droids are subject to this effect: Droid followers within 6 squares get +4 Attack and gain Extra Attack.
+139,Droids are subject to this effect: Followers within 6 squares gain Twin Attack.
+140,Followers without the Melee special ability gain Opportunist +10.
+141,Followers whose names contain Senate gain Close-Quarters Fighting and Twin Attack.
+142,Followers within 6 squares gain Rolling Cleave.
+143,Followers with Order 66 within 6 squares gain Deadly Attack and Flurry Attack.
+144,Allies with Order 66 that end their moves within 6 squares of this character can move 2 extra squares at the end of their turns.
+145,Followers who end their move within 6 squares of this character gain Momentum.
+146,Followers whose name contains Pirate gain Accurate Shot.
+147,Each follower whose name contains Tusken Raider gets +4 Attack and gains Evade.
+148,Followers whose name contains 501st get +10 Damage against enemies with Force ratings.
+149,"Your squad may include Wookiee characters of any faction. Allied Wookiee characters gain Close-Quarters Fighting, Demolish, and Mighty Swing."
+150,Allies with a Force rating within 6 squares get +4 Attack against enemies without a Force rating.
+151,"Whenever a non-Unique follower within 6 squares is missed by an attack, it can immediately move 2 squares."
+152,Non-Unique Fringe followers within 6 squares get +4 Attack and +10 Damage against non-Unique enemies.
+153,Allies with a Force rating within 6 squares gain Mobile Attack.
+154,"At the end of this character's turn, 1 follower within 6 squares can immediately move 2 squares."
+155,Allies without a Force rating within 6 squares gain +4 Attack.
+156,Each trooper follower within 6 squares can make 1 immediate attack when defeated.
+157,Allies within 6 squares gain Mettle.
+158,Unique allies within 6 squares gain Long Shot 10.
+159,Non-Unique followers gain Squad Assault.
+160,Non-Unique allies within 6 squares whose name contains 501st gain Cunning Attack.
+161,Non-Unique followers gain Spotter +10.
+162,"At the end of this character's turn, choose 1 non-Unique trooper follower within 2 squares. Until the end of the round, that follower gains Fire Support Mission."
+163,Each follower gets +4 Attack and +4 Defense as long as it has an ally within 6 squares.

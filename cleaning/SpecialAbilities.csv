@@ -1,0 +1,383 @@
+"id","name","description"
+1,Absorb Minerals +10,+10 Damage against Droid enemies and enemies with Mounted Weapon.
+2,Accelerate,This character can move up to 24 squares if it does not attack.
+3,Accurate Shot,Can attack an enemy with cover even if it's not the nearest enemy.
+4,Advantageous Attack +10,+10 Damage against an enemy who has not activated this round.
+5,Advantageous Cover,+8 Defense from cover instead of +4.
+6,Affinity (501st),Characters whose names contain 501st may be in your squad regardless of faction.
+7,Affinity (Han Solo),A character whose name contains Han Solo may be in your squad regardless of faction.
+8,Affinity (Imperial),May be in an Imperial squad.
+9,Affinity (Liea),A character whose name contains Leia may be in your squad regardless of faction.
+10,Affinity (Malak/Revan),A character whose name contains Malak or Revan may be in your squad regardless of faction.
+11,Affinity (New Republic),May be in a New Republic squad.
+12,Affinity (New Republic/Old Republic),May be in a New Republic or Old Republic squad.
+13,Affinity (Old Republic),May be in an Old Republic squad.
+14,Affinity (Rebel),May be in a Rebel squad.
+15,Affinity (Republic - Non Order 66),May be in a Republic squad that does not contain any characters with Order 66.
+16,Affinity (Republic),May be in a Republic squad.
+17,Alderaan Senator,Counts as a character named Alderaan Trooper.
+18,Ambush,This character can move and then make all its attacks against 1 enemy who has not activated this round.
+19,Armored Spacesuit,Immune to critical hits.
+20,Artillerist +4,+4 Attack against enemies with Flight.
+21,Ataru Style,+4 Attack if exactly 1 enemy is within 6 squares.
+22,Ataru Style Mastery,+4 Attack and Twin Attack if exactly 1 enemy is within 6 squares.
+23,Atlatl 20,Replaces attacks: range 6; 10 damage to target and to each character adjacent to target; save 11. A nonliving character that takes damage from this effect is considered activated this round; save 11 negates. Huge and larger characters ignore the non-damaging effect.
+24,Augment Healing,Adjacent allies that use Heal or Force Heal double the amount of damage removed.
+25,Avoid Defeat,"Whenever this character would be defeated, make 2 saves, each needing 11; if both succeed, this character has 10 Hit Points instead of being defeated."
+26,Betrayal,"On an attack roll of natural 1 against this character, the attacker joins this character's squad until the end of the skirmish."
+27,Black Sun,"If a character whose name contains Xizor or Vigo is in the same squad, this character gains Grenades 10."
+28,Blast Cannon +10,+10 Damage against targets within 6 squares.
+29,Blaster 20,Replaces attacks: sight; +12 Attack for 20 Damage.
+30,Blaster Rifle Upgrade,Allies within 6 squares with nonmelee attacks that deal exactly 20 Damage gain Jolt.
+31,Blaster Upgrade,Allies within 6 squares with nonmelee attacks that deal exactly 10 Damage gain Twin Attack.
+32,Bloodthirsty +10,+10 Damage on melee attacks against enemies at half Hit Points or less.
+33,Bodyguard,"If an adjacent ally would take damage from an attack, this character can take the damage instead."
+34,Bombad Gungan,"Whenever an enemy targets it, this character must attempt a save of 11. On a success, the attack is redirected to another character of your choice within 6 squares. If no other character is within 6 squares, the attack is negated."
+35,Booming Voice,Allies' commander effects normally limited to 6 squares have unlimited range.
+36,Bounty Hunter +2,+2 Attack against Unique enemies.
+37,Bounty Hunter +4,+4 Attack against Unique enemies.
+38,Bounty Hunter +6,+6 Attack against Unique enemies.
+39,Bravado,+4 Attack and +20 Damage against an adjacent enemy with a higher point cost.
+40,Breath Mask,Not affected by abilities or Force powers whose name contains Poison.
+41,Careful Shot +4,"On this character's turn, if it doesn't move, it gets +4 Attack."
+42,Careful Shot +6,"On this character's turn, if it doesn't move, it gets +6 Attack."
+43,Cay's Legacy,"If this character is defeated by a Unique enemy, that enemy must make a save of 11; if the save fails, the enemy joins this character's squad for the rest of the skirmish."
+44,Cesta 20,Replaces attacks: sight; 20 damage to target and to each character adjacent to target; save 11. A nonliving character that takes damage from this effect is considered activated this round; save 11 negates. Huge and larger characters ignore the nondamaging effect.
+45,Charging Assault +10,"Replaces turn: Can move up to double speed, then make an attack at +10 Damage against an adjacent enemy."
+46,Charging Assault +20,"Replaces turn: Can move up to double speed, then make an attack at +20 Damage against an adjacent enemy."
+47,Charging Fire,"Replaces turn: Can move up to double speed, then attack."
+48,Clamp,An enemy hit by this character's attack takes +10 Damage and cannot move this round; save 11 negates.
+49,Cleave,"Once per turn, if this character defeats an adjacent enemy by making an attack, it can make 1 immediate attack against another adjacent enemy."
+50,Cloaked,"If this character has cover, it cannot be targeted by nonadjacent enemies."
+51,Close-Quarters Fighting +4,+4 Attack against adjacent enemies.
+52,Colossal,"Large and smaller characters may occupy squares on this character's base and are considered adjacent. Low objects and Large and smaller characters do not provide cover against this character's attack. Ignores movement costs to enter squares containing difficult terrain, low objects, and trenches. Never has cover. Cannot benefit from Bodyguard or Draw Fire."
+53,Commando,(NA)
+54,Cortosis Gauntlet 17,"Whenever this character rolls 17 or better on a save when using Lightsaber Block against an enemy with a lightsaber, that enemy gets -20 Damage for the rest of the skirmish."
+55,Cortosis Gauntlet 18,"Whenever this character rolls 18 or better on a save when using Lightsaber Block against an enemy with a lightsaber, that enemy gets -20 Damage for the rest of the skirmish."
+56,Cortosis Gauntlet 19,"Whenever this character rolls 19 or better on a save when using Lightsaber Block against an enemy with a lightsaber, that enemy gets -20 Damage for the rest of the skirmish."
+57,Crack Gunner +10,"Can combine fire with adjacent allies who have Mounted Weapon, granting +10 Damage. The attack cannot be prevented or redirected."
+58,Crowd Fighting +2,This character gets +2 Attack for every adjacent character other than its target.
+59,Cunning Attack +10,+4 Attack and +10 Damage against an enemy who has not activated this round.
+60,Cunning Attack +20,+4 Attack and +20 Damage against an enemy who has not activated this round.
+61,Cyborg,Counts as both a Droid and a non-Droid; living; subject to critical hits and commander effects.
+62,Damage Reduction 10,"Whenever this character takes damage, reduce the damage dealt by 10. Attacks with lightsabers ignore this special ability."
+63,Damage Reduction 20,"Whenever this character takes damage from a nonadjacent enemy, reduce the damage dealt by 20. Attacks with lightsabers ignore this special ability."
+64,Dark Armor,"Whenever this character takes damage, it reduces the damage dealt by 10 with a save of 11. Attacks with lightsabers ignore this special ability."
+65,Dark Inspiration,"At the start of the skirmish, choose an allied character with a Force rating. For the rest of the skirmish, that character gains Lightsaber Duelist."
+66,Dark Master,"At the start of the skirmish, choose a Unique allied character. That character may spend this character's Force points as if they were its own."
+67,Deadeye +10,"On this character's turn, if it doesn't move, it gets +10 Damage."
+68,Deadly Attack,Scores a critical hit on an attack roll of natural 19 or 20.
+69,Deathstrike +10,+10 Damage against an enemy that is adjacent to an allied character.
+70,Deceptive +10,+10 Damage against an enemy who has activated this round.
+71,Defensive Plates 10,"If this character does not move, until the end of its next turn, it gains Damage Reduction 10."
+72,Dejarik,(NA)
+73,Delta Fire Support,Each ally whose name contains Republic Commando gains Synchronized Fire.
+74,Delta Shield Support,Each ally whose name contains Republic Commando gains Shields 2.
+75,Demolish,Ignores Damage Reduction of adjacent targets.
+76,Demolition Charge,Replaces turn: 1 adjacent Huge or larger enemy with Mounted Weapon is defeated; save 6.
+77,Density Projector,Ignores effects that force movement.
+78,Desert Skiff,"This character can transport up to 1 Large ally or 2 Small or Medium allies that end their moves adjacent to it. Remove these allies from the battle grid; they move simultaneously with this character as though they had Flight, have cover, and are considered adjacent to it. They can make attacks, counting distance from this character and adding 1 square. A transported ally can return to the battle grid immediately before your first activation of the round. If this character is defeated, all transported allies are also defeated; save 11."
+79,Destabilize Shields,Suppresses Shields abilities of adjacent enemies.
+80,Diplomat,"If an attacker has line of sight to any enemies without Diplomat, this character is not a legal target and does not count as the nearest enemy, even if adjacent."
+81,Disintegration,"If this character rolls a natural 20 on an attack, the target is defeated."
+82,Disruptive,Suppresses enemy commander effects within 6 squares.
+83,Djem So Style,"Whenever this character is hit by a melee attack, make a save of 11. On a success, this character can make an immediate attack against that attacker."
+84,Djem So Style Mastery,"Whenever this character is hit by a melee attack, make a save of 11. On a success, this character can make an immediate attack against that attacker with +10 Damage."
+85,Doctrine of Fear,Enemy characters within 6 squares get -4 Attack.
+86,Dominate,"Replaces turn: Target living character takes an immediate turn under your control, which does not count as one of your 2 activations this phase, even if it has already been activated this round; save 11. The target character cannot move this turn."
+87,Door Gimmick,"At the end of its turn, this character can designate 1 door that it can see as open; it remains open until the end of this character's next turn, or until it is defeated."
+88,Double Attack,"On its turn, this character can make 1 extra attack instead of moving."
+89,Double Claw Attack,"On its turn, this character can make 1 extra attack instead of moving; both attacks must be against adjacent enemies."
+90,Drain Life Energy,"Whenever it defeats an adjacent living enemy, remove all damage from this character."
+91,Draw Fire,"If an enemy targets an ally within 6 squares of this character, you may force that enemy to target this character instead if it can; save 11."
+92,Droid,Immune to critical hits; not subject to commander effects.
+93,Droid Coordinator,Non-Unique Droid allies gain Speed 8.
+94,Droid Defender,"If an enemy targets an allied Droid within 6 squares of this character, you may force that enemy to target this character instead if it can; save 11."
+95,Droid Mark,"When this character activates, you may choose an allied Droid character within 6 squares. Until the start of the next round, that character gains Draw Fire."
+96,Droid Master,Non-Unique Droid characters within 6 squares gain Double Attack.
+97,Droid Reinforcements 20,"During setup, after seeing your opponent's squad, you can add up to 20 points of non-Unique Droid characters to your squad."
+98,EMP Grendades,A nonliving character that is subject to this character's Grenades ability is considered activated this round; save 11. Huge and larger characters ignore this effect.
+99,Electric Shock +10,+10 Damage against adjacent Droid enemies.
+100,Electrostaff +10,+10 Damage against adjacent nonliving enemies. An adjacent living enemy hit by this character's attack is considered activated this round; save 11.
+101,Electrostaff +20,+20 Damage against adjacent nonliving enemies. An adjacent living enemy hit by this character's attack is considered activated this round; save 11.
+102,Elite Clone Trooper,Counts as a character named Elite Clone Trooper.
+103,Emergency Life Support,Adjacent living Allies gain Avoid Defeat.
+104,Empathy,Allies with Savage within 6 squares lose Savage.
+105,Emperor's Bodyguard,"If (a character whose name contains) Emperor is an adjacent ally and would take damage from an attack, this character can take the damage instead."
+106,Emplacement,Cannot move or be moved. Set up anywhere on your half of the battle map.
+107,Energy Shield,"When this character or an adjacent character is hit by an attack from an enemy that is not adjacent to either, that character takes no damage and the attacker takes damage equal to the prevented damage; the attacker can avoid this effect with a save of 11."
+108,Enraging Screech,Dejarik allies within 6 squares get +4 Attack.
+109,Evade,"When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11."
+110,Ewok,(NA)
+111,Execute Order 66,Cannot be targeted by characters with Order 66.
+112,Extra Attack,"On its turn, this character can make 1 cumulative extra attack instead of moving."
+113,Final Shot,"On this character's turn, if it doesn't move, it gets +30 Damage against enemies with 50 or fewer Hit Points remaining."
+114,Fire Control,Non-Unique Droid allies get +4 Attack.
+115,Fire Support MIssion,"Replaces turn: Choose 1 enemy within line of sight, ignoring cover, 60 damage to target enemy and every character within 2 squares; save 6. A successful save reduces the damage to 10."
+116,Flamethrower 10,Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target.
+117,Flamethrower 20,Replaces attacks: range 6; 20 damage to target and to each character adjacent to that target.
+118,Flanking Support,"If this character combines fire against an enemy within 6 squares and the attack hits, that enemy has -4 Defense until the end of the round against allies that do not have Mounted Weapon."
+119,Flight,"Ignores difficult terrain, enemy characters, low objects, and pits when moving."
+120,Flurry Attack,"Whenever this character scores a critical hit, it can make 1 immediate extra attack."
+121,Flux Density +10,+10 Damage if one or more Droid characters combine fire with this character.
+122,Force Ascetic,This character cannot spend Force points to reroll or move faster; it can use named Force powers only.
+123,Force Immunity,"Enemies cannot affect this character with Force powers, or spend Force points to reroll attacks against this character or to respond to this character's attacks and abilities."
+124,Force-Attuned Armor,"Whenever this character takes damage, he reduces the damage dealt by by 10 with a save of 11."
+125,Fragile 40,"This character can no longer attack if its remaining Hit Points are fewer than 40. If damage-removal effects restore its Hit Points total to 40 or more, it can once again attack."
+126,Fringe Reinforcements 20,"During setup, after seeing your opponent's squad, you can add up to 20 points of Fringe characters to your squad."
+127,Fringe Reinforcements 30,"During setup, after seeing your opponent's squad, you can add up to 30 points of Fringe characters to your squad."
+128,Fringe Reserves 20,"If you roll exactly 11 for initiative, you can add up to 20 points of Fringe characters to your squad immediately before your first activation of the round."
+129,Fringe Reserves 30,"If you roll exactly 11 for initiative, you can add up to 30 points of Fringe characters to your squad immediately before your first activation of the round."
+130,Frozen in Carbonite,"During setup, choose another character whose name contains Han Solo. This character's point cost X is 1/2 the printed cost of the chosen character. An opponent sets up this character along with his or her squad. This character cannot be activated, cannot move, and does not count as a legal target. Its space cannot be entered, but it provides cover. If an ally ends its turn adjacent to this character, you may immediately remove this character from play and place the chosen character in its space. The newly placed character cannot activate this round."
+131,Furious Assault,"Replaces turn: Can move up to double speed, then attack each legal target once."
+132,Galloping Attack,"As this character moves, it can attack each adjacent enemy, +4 Attack; this turn, this character cannot attack any enemy twice and cannot move directly back into a space it has just left. This ability is usable only on this character's turn."
+133,Gang +1,+1 Attack against a target for each other ally whose name contains Dark Hellion within 6 squares of that target.
+134,Greater Mobile Attack,"Can move both before and after attacking. This character can make extra attacks even if it moves this turn, but it must make them all before resuming movement."
+135,Gregarious +4,+4 Attack if an ally is within 6 squares.
+136,Grenades 10,Replaces attacks: range 6; 10 damage to target and to each character adjacent to that target; save 11.
+137,Grenades 20,Replaces attacks: range 6; 20 damage to target and to each character adjacent to that target; save 11.
+138,Grenades 30,Replaces attacks: range 6; 30 damage to target and to each character adjacent to that target; save 11.
+139,Grenades 40,Replaces attacks: range 6; 40 damage to target and to each character adjacent to that target; save 11.
+140,Ground Pilot +2,Allies with Mounted Weapon who start their moves adjacent to this character get +2 Speed.
+141,Gungan,(NA)
+142,Gunner,Can combine fire with adjacent allies who have Mounted Weapon.
+143,Gunner +10,"Can combine fire with adjacent allies who have Mounted Weapon, granting +10 Damage."
+144,Gunner +20,"Can combine fire with adjacent allies who have Mounted Weapon, granting +20 Damage."
+145,Hand of the Emperor,This character can spend its own Force points once per turn and spend Force points from a character whose name contains Emperor Palpatine once per turn.
+146,Harpoon Gun,Replaces attacks: range 6; target enemy with Mounted Weapon cannot move this round; save 11.
+147,Heal 10,Replaces attacks: touch; remove 10 damage from a living character.
+148,Heal 20,Replaces attacks: touch; remove 20 damage from a living character.
+149,Heal 30,Replaces attacks: touch; remove 30 damage from a living character.
+150,Heavy Laser Cannon,"1 activation: Make 2 attacks. Attack +6. On a hit, 60 damage to target and 20 damage to each character adjacent to the target; save 11. On a miss, 20 damage to the target and to each character adjacent to that target; save 11."
+151,Heavy Lift,"Instead of making its normal attack or attacks, this character can move an adjacent Small, Medium, or Large ally to another space adjacent to itself. The lifted character cannot be moved into a space occupied by another creature or through walls. Lifted creatures do not provoke attacks of opportunity."
+152,Heavy Weapon,Can't attack and move in the same turn.
+153,Hologram,"Ignores all terrain. Cannot open doors. Cannot attack or be damaged, and does not count as a legal target. Does not provide cover. This character is defeated if it activates when no Trooper ally is within 2 squares."
+154,Homocidal Surgery,"Instead of taking its normal turn, this character deals 10 points of damage to an adjacent living character. If the character is an ally, it can make a save of 11 to remove 10 points of damage from itself instead. If the save fails, that ally takes 10 points of damage."
+155,Immediate Droid Reserves 20,"If you roll exactly 5, 10, 15, or 20 for initiative, you can add up to 20 points of non-Unique Droid characters from any faction to your squad, adjacent to this character, immediately before your first activation of the round."
+156,Immediate Droid Reserves 30,"If you roll exactly 5, 10, 15, or 20 for initiative, you can add up to 30 points of non-Unique Droid characters from any faction to your squad, adjacent to this character, immediately before your first activation of the round."
+157,Immobilizing Rend,"If both of this character's attacks hit the same enemy, that enemy cannot move this round."
+158,Imperial Knight,(NA)
+159,Imperial Reserves 20,"If you roll exactly 6 for initiative, you can add up to 20 points of non-Unique Imperial characters to your squad immediately before your first activation of the round."
+160,Impulsive Advance,"Whenever a Unique allied character is defeated, this character can immediately move 3 squares."
+161,Impulsive Force Renewal,"If a Unique allied character is defeated, for the remainder of the skirmish this character has Force Renewal 1."
+162,Impulsive Jedi Hunter,"If a Unique allied character is defeated, for the remainder of the skirmish this character has Jedi Hunter."
+163,Impulsive Momentum,"If a Unique allied character is defeated, for the remainder of the skirmish this character has Momentum."
+164,Impulsive Reprisal,"If a Unique allied character is defeated, for the remainder of the skirmish this character has +4 Attack and +10 Damage."
+165,Impulsive Savagery,"If a Unique allied character is defeated, for the remainder of the skirmish this character has Savage."
+166,Impulsive Shot,"If a Unique allied character is defeated, this character can make 1 immediate attack."
+167,Impulsive Sweep,"If a Unique allied character is defeated, this character can immediately attack each adjacent enemy once."
+168,Impulsive Twin Attack,"If a Unique allied character is defeated, for the remainder of the skirmish this character has Twin Attack."
+169,Independent Outfit,Also counts as a Fringe character for the purpose of commander effects.
+170,Industrial Repair 10,Also counts as a Fringe character for the purpose of commander effects.
+171,Industrial Repair 20,Replaces attacks: touch; remove 20 damage from 1 character with Mounted Weapon.
+172,Industrial Repair 30,Replaces attacks: touch; remove 30 damage from 1 character with Mounted Weapon.
+173,Internal Strife,"On an attack roll of natural 1, this character joins the opponent's squad until the end of the skirmish."
+174,Intuition,"Once per round, after initiative is determined, this character can immediately move up to its speed before any other character activates."
+175,Invisibility,Cannot be targeted by nonadjacent enemies.
+176,Ion Gun +20,+20 Damage against nonliving enemies.
+177,Ion Shielding,Can ignore special abilities that affect only nonliving targets.
+178,It's a Trap!,Enemies with Stealth within 6 squares lose Stealth.
+179,Jedi Bodyguard,"If an adjacent ally with a Force rating would take damage from an attack, this character can take the damage instead."
+180,Jedi Hunter,+4 Attack and +10 Damage against enemies with Force ratings.
+181,Jolt,An enemy hit by this character's attack is considered activated this round; save 11. Huge and larger characters ignore this effect.
+182,Karmic Luck,"If your initiative check is an odd number, +4 to all this character's rolls for the round; if it is an even number, -4 to all its rolls instead."
+183,Karmic Mettle,"If this character spends 1 Force point to reroll, add +4 to the result. If the result is a failed attack or save, this character takes 10 damage."
+184,Kouhun Infestation,Replaces turn: 60 damage to 1 living enemy within 12 squares regardless of line of sight; save 11.
+185,Lift,Replaces attacks: touch; move 1 adjacent Small or Medium ally to any space adjacent to this character. This move does not provoke attacks of opportunity.
+186,Light Spirit,"Ignores characters and terrain. Cannot open doors. Cannot attack or be damaged, and does not count as a legal target, the nearest enemy, or adjacent. Not subject to commander effects. Does not provide cover. At the start of the skirmish, choose a Unique allied character with a Force rating. That ally gains Force Renewal 1 and Mettle while within 4 squares of this character. This character is defeated if the chosen ally is defeated. An enemy within 6 squares can spend 1 Force point to defeat this character; save 11. This effect replaces that enemy's attacks."
+187,Light Tutor,"At the start of the skirmish, choose an ally. If that ally does not have a Force rating, it gains Force 1 and can spend this Force point normally; it is considered to have a Force rating for the rest of the skirmish. If that ally already has a Force rating, it gains 1 Force point."
+188,Lightsaber,+10 Damage against adjacent enemies.
+189,Lightsaber Duelist,+4 Defense when attacked by an adjacent enemy with a Force rating.
+190,Lightsaber Resistance,+2 Defense when attacked by an adjacent enemy with a Force rating.
+191,Limited Field of Fire,This character can target only enemies in its forward arc.
+192,Loner +4,+4 Attack if no allies are within 6 squares.
+193,Long Shot 20,+4 Attack and +20 Damage when this character is at half Hit Points or less.
+194,Machinery,Industrial Repair removes damage from this character.
+195,Makashi Style Mastery,"When hit by a melee attack, this character takes no damage with a save of 11. Shii-Cho, Soresu, Ataru, and Niman Style cannot be used against this character."
+196,Mandalorian Conscription,All characters in your squad are considered Mandalorian for the rest of the skirmish.
+197,Mandalorian Hunter,+4 Attack and +10 Damage against Mandalorian enemies.
+198,Master Tactician,You automatically choose who goes first except on a roll of 1.
+199,Medical Supplies,Replaces turn: choose 1 adjacent ally to gain Heal 10 for the rest of the skirmish.
+200,Medium Blasters,"1 activation: Make 2 attacks, Attack +10, Damage 20."
+201,Melee Attack,Can attack only adjacent enemies.
+202,Melee Reach 2,"When attacking, this character treats enemies up to 2 squares away as adjacent."
+203,Melee Reach 3,"When attacking, this character treats enemies up to 3 squares away as adjacent."
+204,Mercenary,This character can move only if it cannot make an attack from its starting space.
+205,Merciless 20,+20 Damage against enemies at half Hit Points or less.
+206,Mettle,"If this character spends 1 Force point to reroll, add +4 to the result."
+207,Micro-Vision,+4 Attack against targets within 6 squares.
+208,Mighty Swing,"On its turn, if this character doesn't move, it gets +10 Damage against adjacent enemies."
+209,Mimetic Combat Processor,"This character uses the Defense, Attack, and Damage ratings of itself or any 1 Medium character with Melee Attack within 6 squares, whichever are higher."
+210,Mines 20,An enemy that moves adjacent to this character takes 20 damage; save 11.
+211,Missiles 20,Replaces attacks: sight; 20 damage to target and to each character adjacent to that target; save 11.
+212,Missiles 30,.Replaces attacks: sight; 30 damage to target and to each character adjacent to that target; save 11.
+213,Missiles 40,Replaces attacks: sight; 40 damage to target and to each character adjacent to that target; save 11.
+214,Mobile Attack,Can move both before and after attacking.
+215,Molecular Shielding,"When hit by an attack from a nonadjacent enemy, this character takes no damage and the attacker takes damage equal to the prevented damage; the attacker can avoid this effect with a save of 11."
+216,Momentum +10,"If this character has moved this turn, it gets +4 Attack and +10 Damage against adjacent enemies."
+217,Mounted Weapon,Only allies with Mounted Weapon or adjacent allies with Gunner can combine fire with this character.
+218,Munitions Supplies,Replaces turn: choose 1 adjacent ally to gain Grenades 10 for the rest of the skirmish.
+219,Netgun 11,Replaces attacks: range 6; target enemy and each character adjacent to that target are considered activated this round; save 11 negates. Huge and larger characters and characters with Mounted Weapon ignore this effect.
+220,Netgun 16,Replaces attacks: range 6; target enemy and each character adjacent to that target are considered activated this round; save 16 negates. Huge and larger characters and characters with Mounted Weapon ignore this effect.
+221,Never Tell Me the Odds,Suppresses enemy special abilities that modify initiative.
+222,New Republic/Rebel Reinforcements 30,"During setup, after seeing your opponent's squad, you can add up to 30 points of non-Unique New Republic or Rebel characters to your squad."
+223,Niman Style,+2 Attack and +2 Defense while this character has more than half Hit Points remaining.
+224,Ooglith Masquer,"At the start of the skirmish, choose a non-Unique allied character. That ally gains Stealth."
+225,Opportunist +10,+4 Attack and +10 Damage against an enemy who has activated this round.
+226,Opportunist +20,+4 Attack and +20 Damage against an enemy who has activated this round.
+227,Order 66,(NA)
+228,Override,"At the end of its turn, this character can designate 1 door that it can see as open or closed; it remains open or closed until the end of this character's next turn, or until it is defeated."
+229,Painful Screech,"Instead of making its normal attack or attacks, this character deals 10 damage to all characters (enemies and allies alike) up to 3 squares away. Using this special ability is not an attack and does not require an attack roll."
+230,Palpatine's Bodyguard,"If a character whose name contains Emperor Palpatine is an adjacent ally and would take damage from an attack, this character can take the damage instead."
+231,Paralysis,A living enemy hit by this character's attack is considered activated this round; save 11.
+232,Parry,"When hit by a melee attack, this character takes no damage with a save of 11."
+233,Pathfinder,Allies are not slowed by difficult terrain within 6 squares of this character.
+234,Penetration 10,Enemies' Damage Reduction is reduced by 10 against this character's attacks.
+235,Penetration 20,Enemies' Damage Reduction is reduced by 20 against this character's attacks.
+236,Pheromones,Cancel an attack from a living enemy within 6 squares that targets this character; the attacker can avoid this effect with a save of 11.
+237,Pilot,(NA)
+238,Plaeryin Bol,Replaces turn: 40 damage to 1 adjacent living enemy; save 11.
+239,Poison +10,+10 Damage to living enemy; save 11.
+240,Poison +20,+20 Damage to living enemy; save 11.
+241,Power Coupling,"At the end of its turn, this character can choose 1 adjacent Small or Medium ally who does not have Melee Attack. That ally gains Extra Attack until the end of this character's next turn, or until this character is no longer adjacent."
+242,Proboscises,"Replaces turn: Make an attack at +10 Damage against an adjacent living enemy. If this attack hits, that enemy is considered activated this round; save 11."
+243,Programmed Target,"After setup, choose any 1 enemy. This character gets +4 Attack and Accurate Shot against the chosen enemy."
+244,Protective +20,+20 Damage while a wounded ally whose name contains Leia is within 6 squares.
+245,Protective Aura,Adjacent Dejarik allies gain Avoid Defeat.
+246,Pulse Cannon 40,"Replaces attacks: sight; 40 damage to target and to each character adjacent to that target; on a save of 11, reduce the damage to 10."
+247,Quadruple Attack,"On its turn, this character can make 3 extra attacks instead of moving."
+248,Quick Reactions +6,+6 Attack when making attacks of opportunity.
+249,Rakghoul Disease,"+10 Damage to living enemy; save 11. Whenever this character defeats a living enemy, you can immediately add a character named Rakghoul to your squad. The new character sets up in a square that enemy formerly occupied."
+250,Rangefinder,Replaces attacks: Adjacent allies who do not move get +4 Attack against nonadjacent enemies this round.
+251,Rapport (4-LOM),A character whose name contains 4-LOM costs 1 less when in the same squad as this character.
+252,Rapport (AT-ST),Characters whose name contains AT-ST cost 10 less when in the same squad as this character.
+253,Rapport (Baron Fel),Costs 1 less when in the same squad as a character named Baron Fel.
+254,Rapport (Clone Trooper),Characters named Clone Trooper cost 2 less when in the same squad as this character.
+255,Rapport (Death Star),A character whose name contains Death Star costs 1 less when in the same squad as this character.
+256,Rapport (Dr. Evazan),Dr. Evazan costs 1 less when in the same squad as this character.
+257,Rapport (Jabba the Hutt),Costs 1 less when in the same squad as a character named Jabba the Hutt.
+258,Rapport (Kazdan Paratus),Costs 1 less when in the same squad as a character named Kazdan Paratus.
+259,Rapport (Luminara Unduli),Costs 1 less when in the same squad as a character named Luminara Unduli.
+260,Rapport (Master Kota),Costs 1 less when in the same squad as a character named Master Kota.
+261,Rapport (Mercenary),Characters with Mercenary cost 1 less when in the same squad as this character.
+262,Rapport (Non-Unique Droids),Non-Unique Droids cost 1 less when in a squad with this character.
+263,Rapport (Non-Unique Republic Followers),Non-Unique Republic followers cost 1 less when in the same squad as this character.
+264,Rapport (Non-Unique Wookies),Non-Unique Wookiees cost 1 less when in the same squad as this character.
+265,Rapport (Order 66),Characters with Order 66 cost 1 less when in the same squad as this character.
+266,Rapport (Ponda Baba),Ponda Baba costs 1 less when in the same squad as this character.
+267,Rapport (Vader),This character costs 1 less when in the same squad as a character whose name contains Vader.
+268,Rapport (Zuckuss),A character whose name contains Zuckuss costs 1 less when in the same squad as this character.
+269,Razorbug,Replaces attacks: sight; 10 damage; save 11.
+270,Recon,"Roll twice for initiative once per round, choosing either roll, if any character with Recon in the same squad has line of sight to an enemy."
+271,Regeneration 10,"If this character doesn't move on its turn, remove 10 damage from it at the end of that turn."
+272,Regeneration 20,"If this character doesn't move on its turn, remove 20 damage from it at the end of that turn."
+273,Relay Orders,Each allied commander can count distance from this character as well as from itself for the purpose of commander effects.
+274,Relentless,Moves forward only.
+275,Rend +10,"If both of its attacks hit the same adjacent enemy, this character's second attack gets +10 Damage."
+276,Rend +20,"If both of its attacks hit the same adjacent enemy, this character's second attack gets +20 Damage."
+277,Repair 10,Replaces attacks: touch; remove 10 damage from 1 Droid character.
+278,Repair 20,Replaces attacks: touch; remove 20 damage from 1 Droid character.
+279,Repair 30,Replaces attacks: touch; remove 30 damage from 1 Droid character.
+280,Republic Reserves 20,"If you roll 20 for initiative, you can add up to 20 points of Republic characters to your squad immediately before your first activation of the round."
+281,Republic Reserves 30,"If you roll 20 for initiative, you can add up to 30 points of Republic characters to your squad immediately before your first activation of the round."
+282,Resilient,Immune to critical hit.
+283,Rig Blaster,Allies within 6 squares with nonmelee attacks that deal exactly 10 damage gain Jolt.
+284,Rigid,Can't squeeze.
+285,Roger Roger,Non-Unique Droid allies within 6 squares get +10 Damage.
+286,Rolling Cleave,"Once per turn, if this character defeats an adjacent enemy by making an attack, it can immediately move 1 square and then make 1 attack against another adjacent enemy without provoking an attack of opportunity."
+287,Sabatoge,Replaces attacks: Adjacent enemy characters with Mounted Weapon cannot move more than their speed during a phase for the rest of the skirmish.
+288,Satchel Charge,Replaces attacks: Designate 1 adjacent door as open; it remains open for the rest of the skirmish and cannot be closed.
+289,Savage,This character must end its move next to an enemy if it can and does not benefit from commander effects.
+290,Scarification +10,Wounded Yuuzhan Vong allies within 6 squares get +4 Attack and +10 Damage.
+291,Scramble,A Droid enemy or an enemy with Mounted Weapon hit by this character's attack is considered activated this round; save 11. Huge and larger characters ignore this effect.
+292,Self-Destruct 10,"When this character is defeated, each adjacent character takes 10 damage."
+293,Self-Destruct 20,"When this character is defeated, each adjacent character takes 20 damage."
+294,Self-Destruct 40,"When this character is defeated, each adjacent character takes 40 damage."
+295,Separatist Reserves 20,"If you roll a 1 for initiative, you can add up to 20 points of Separatist characters to your squad immediately before your first activation of the round."
+296,Sepratist Reinforcements 20,"During setup, after seeing your opponent's squad, you can add up to 20 points of Separatist characters to your squad."
+297,Shaper +10,Yuuzhan Vong allies within 6 squares get +10 Damage. This bonus damage is multiplied by critical hits.
+298,Shatter Beam,Replaces attacks: sight; designate 1 door as open; it remains open for the rest of the skirmish and cannot be closed.
+299,Shields 1,"When this character takes damage, it reduces the damage dealt by 10 with a save of 11."
+300,Shields 2,"When this character takes damage, make 2 saves, each needing 11; each success reduces the damage dealt by 10."
+301,Shii Cho Style,+4 Attack and +4 Defense when 3 or more enemies are within 6 squares.
+302,Shockstaff +10,+10 Damage against adjacent nonliving enemies. An adjacent living enemy hit by this character's attack is considered activated this round; save 11.
+303,Sith Hunter,+4 Attack and +10 Damage against Sith enemies.
+304,Smuggler's Luck,"If this character is adjacent to a Dejarik ally at the start of a round, roll twice for initiative."
+305,Snare Rifle,A character hit by this character's attack cannot move until the end of this round.
+306,Sniper,Other characters do not provide cover against this character's attack.
+307,Soldier (Old Republic Soldier),Counts as a character named Old Republic Soldier.
+308,Sonic Attack,An enemy attacked by this character cannot use Force powers for the rest of that turn.
+309,Sonic Stunner,Replaces attacks: range 6; living target and each living character adjacent to that target are considered activated this round; save 11 negates. Huge and larger characters ignore this special ability.
+310,Soresu Style,"When hit by an attack from a nonadjacent enemy, this character takes no damage with a save of 11."
+311,Soresu Style Mastery,"When hit by an attack, this character takes no damage with a save of 11."
+312,Spit Poison 20,Replaces attacks: range 6; 20 damage to target living enemy; save 11.
+313,Splash 10,"If this character's attack hits, all characters adjacent to the target take 10 damage; save 11. If the attack misses, the target and all adjacent characters take 10 damage; save 11."
+314,Splash 20,"If this character's attack hits, all characters adjacent to the target take 20 damage; save 11. If the attack misses, the target and all adjacent characters take 20 damage; save 11."
+315,Spotter +10,"If this character combines fire against a target within 6 squares, the attacker gets +10 Damage against that target."
+316,Spotter +20,"If this character combines fire against a target within 6 squares, the attacker gets +20 Damage against that target."
+317,Spotter +30,"If this character combines fire against a target within 6 squares, the attacker gets +30 Damage against that target."
+318,Squad Assault,+4 Attack while 3 allies with the same name as this character are within 6 squares.
+319,Squad Cover,+4 Defense while 3 allies with the same name as this character are within 6 squares.
+320,Squad Firepower,+10 Damage while 3 allies with the same name as this character are within 6 squares.
+321,Stable Footing,Not slowed by difficult terrain or low objects.
+322,Staggered Activation 6,"Activates 6 times per round; each activation counts as 1 of your 2 activations in a phase. Each round, this character must use 4 activations to move or use move actions, 1 activation to use Heavy Laser Cannons, and 1 activation to use Medium Blasters. Not subject to commander effects."
+323,Steal Force,Replaces attacks: touch; 1 adjacent character with a Force rating loses 1 Force point and this character gains 1 Force point.
+324,Stealth,"If this character has cover, it does not count as the nearest enemy for an attacker farther than 6 squares when choosing targets."
+325,Stomp,"Whenever this character moves, any characters occupying squares on its base or squares it moves into are immediatly defeated. Characters can avoid this effect with a save of 6."
+326,Strafe Attack,"As this character moves, it can attack each enemy whose space it enters; this turn, this character cannot attack any enemy twice and cannot move directly back into a space it has just left. This ability is usable only on this character's turn."
+327,Strong-Willed,Cannot be affected by Jedi Mind Trick.
+328,Stun Gas,Replaces attacks: Adjacent living targets are considered activated this round and cannot make attacks of opportunity this turn; save 11 negates. Huge or larger characters ignore this effect.
+329,Stun Mortar,Replaces attacks: sight; living target and each living character adjacent to that target are considered activated this round; save 11 negates. Huge and larger characters ignore this special ability.
+330,Swarm +1 (Ewok),+1 Attack against a target for each allied Ewok adjacent to that target.
+331,Swarm +1 (Mynok),+1 Attack against a target for each other ally named Mynock adjacent to that target.
+332,Syncronized Fire (Alderaan Trooper),Alderaan Troopers who combine fire with this character grant +6 Attack instead of +4.
+333,Syncronized Fire (Droid),Droid characters who combine fire with this character grant +6 Attack instead of +4.
+334,Syncronized Fire (Imperial Navy Trooper),Characters named Imperial Navy Trooper who combine fire with this character grant +6 Attack instead of +4.
+335,Syncronized Fire (Order 66),Allies with Order 66 who combine fire with this character grant +6 Attack instead of +4.
+336,"Synergy (Anakin, +4 atk)",+4 Attack while an allied character whose name contains Anakin is within 6 squares.
+337,"Synergy (Barriss Offee, +4 atk/+4 def)",+4 Attack and +4 Defense while an allied character whose name contains Barriss Offee is within 6 squares.
+338,"Synergy (Force Rating, +4 atk/+4 def)",+4 Attack and +4 Defense while an allied character whose name contains Luminara Unduli is within 6 squares.
+339,"Synergy (Imperial Knight, +4 atk)",+4 Attack while an allied Imperial Knight is within 6 squares.
+340,"Synergy (Jacen Solo, +4 atk)",+4 Attack while an allied character named Jacen Solo is within 6 squares.
+341,"Synergy (Jaina Solo, +4 atk)",+4 Attack while an allied character named Jaina Solo is within 6 squares.
+342,"Synergy (Luminara Unduli, +4 atk)",+4 Attack while an allied character named Luminara Unduli is within 6 squares.
+343,"Synergy (Luminara Unduli, +4 atk/+4 def)",+4 Attack and +4 Defense while an allied character whose name contains Luminara Unduli is within 6 squares.
+344,"Synergy (Solo, +4 atk)",+4 Attack for each ally whose name contains Solo within 6 squares.
+345,Tactics Broker,"Once per round, before initiative is determined, choose 1 other character in your squad. Remove that character from play; that character is defeated. An opponent's initiative check result automatically becomes 1."
+346,Targeting,"Until the end of the round, target enemy has -4 Defense."
+347,Teräs Käsi Style,"Whenever this character takes damage from a melee attack, reduce the damage dealt by 10."
+348,Thrawn's Bodyguard,"If Grand Admiral Thrawn is an adjacent ally and would take damage from an attack, this character can take the damage instead."
+349,Thud Bug,"Replaces attacks: range 6; 10 damage, living target is considered activated this round; save 11 negates. Huge and larger characters ignore the nondamaging effect."
+350,Tow Cable,"Replaces turn: This character and an adjacent ally can move up to 12 squares simultaneously; during this move, that ally gains Flight. At the end of the move, that ally must be adjacent to this character."
+351,Trandoshan,(NA)
+352,Traps,Enemy characters within 6 squares get -4 Defense.
+353,Triple Attack,"On its turn, this character can make 2 extra attacks instead of moving."
+354,Troop Cart,"This character can transport up to 1 Large ally or 2 Small or Medium allies who end their moves adjacent to it. Remove those allies from the battle grid; they move simultaneously with this character, have cover, and are considered adjacent to it. They can make attacks, counting distance from this character. A transported ally can return to the battle grid immediately before your first activation of the round. If this character is defeated, all transported allies are also defeated; save 6."
+355,Trooper (501st Clone Trooper),Counts as a character named 501st Clone Trooper.
+356,Trooper (Sith Trooper),Counts as a character named Sith Trooper.
+357,Turn to the Dark Side,"Replaces attacks: range 6; 20 damage to 1 target with a Force rating. The target can choose to negate this damage and instead make a save of 11; if the save fails, the target joins this character's squad until the end of the skirmish."
+358,Twin Attack,"Whenever this character attacks, it makes 1 extra attack against the same target."
+359,Ugnaught,(NA)
+360,Vaapad Style,"Scores a critical hit on an attack roll of natural 17, 18, 19, or 20 and does triple damage instead of double on a critical hit."
+361,Vicsious Attack,Triple damage instead of double on a critical hit.
+362,Virulent  Poison +20,+20 Damage to living enemy; save 16.
+363,Virulent Poison Dart,Replaces turn: range 6; 40 damage to target living enemy; save 16.
+364,Vonduun Crab Armor 11,"When this character takes damage, it can reduce the damage dealt by 10 with a save of 11."
+365,Vonduun Crab Armor 16,"When this character takes damage, it can reduce the damage dealt by 10 with a save of 16."
+366,Vonduun Crab Armor 6,"When this character takes damage, it can reduce the damage dealt by 10 with a save of 6."
+367,Walk 2,"1 activation: Move up to 2 squares."
+368,Wall Climber,"This character ignores difficult terrain, enemy characters, low objects, and pits when moving as long as a square it occupies and a square it is moving into are adjacent to a wall."
+369,Weak Spots 10,This character's Damage Reduction is reduced to 10 against attacks from adjacent enemies.
+370,Wheel Form,This character can move up to 18 squares if it does not attack.
+371,Wheeled,"Replaces turn: Can move up to 18 squares, then attack."
+372,Wookiee,(NA)
+373,Xizor's Bodyguard,"If Prince Xizor is an adjacent ally and would take damage from an attack, this character can take the damage instead."
+374,Ysalamari,Characters within 6 squares cannot spend Force points. This character and characters within 6 squares gain Force Immunity.
+375,Yuuzhan Vong Colaborator,Yuuzhan Vong get +1 Attack for each character with Yuuzhan Vong Collaborator within 4 squares of their target.
+376,Yuuzhan Vong Warrior,Counts as a character named Yuuzhan Vong Warrior.
+377,Force Empathic 10,This character takes 10 damage each time an ally with a Force rating is defeated.
+378,Poisoned Blade,+10 Damage to 1 adjacent target; this counts as a melee attack. This attack deals an extra 20 Damage to a living enemy; save 11.
+379,Swarm +4 (Shyrack),This character gets +4 Attack against a target for each other allied character named Shyrack adjacent to that target.
+380,Long Shot 10,+4 Attack and +10 Damage when this character is at half Hit Points or less.
+381,Flanking Attack,"Until the end of the round, an enemy attacked by this character has -4 Defense against allies with Mounted Weapon"
+382,Ithorian,(NA)
